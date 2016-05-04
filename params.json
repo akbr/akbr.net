@@ -1,0 +1,6 @@
+{
+  "name": "aaronrieke.com",
+  "tagline": "",
+  "body": "<script type=\"text/javascript\">\r\n    function gen_mail_to_link(lhs,rhs,subject) {\r\n        document.write(\"<a href=\\\"mailto\");\r\n        document.write(\":\" + lhs + \"@\");\r\n        document.write(rhs + \"?subject=\" + subject + \"\\\">\" + lhs + \"@\" + rhs + \"<\\/a>\");\r\n    }\r\n</script>\r\n\r\nHello, visitor.\r\n\r\nThere's not much to see here right now.\r\n\r\nIn the meantime:\r\n\r\n* Befriend me [on Facebook](https://www.facebook.com/aaronbr).\r\n\r\n* Read my resume [on Linkedin](https://www.linkedin.com/in/aaron-rieke-5a178b28).\r\n\r\n* See [where I work](teamupturn.com).\r\n\r\n* Send me an <script type=\"text/javascript\"> gen_mail_to_link('akbr','akbr.net','e-mail').;</script><noscript><em>[E-mail address protected by a script. View source or enable Javascript.]</em></noscript>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
