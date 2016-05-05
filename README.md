@@ -1,2 +1,1 @@
-# aaronrieke.com
-The website for aaronrieke.com
+The website for akbr.net and aaronrieke.com
